@@ -1,4 +1,4 @@
-# study-android-architecture
+﻿# study-android-architecture
 
 ## 9th
 - 이재우 [namget](https://github.com/namget)
@@ -6,6 +6,14 @@
 - 박재민 [mkSpace](https://github.com/mkSpace)
 
 - 최민정 [miinjung](https://github.com/miinjung)
+
+- 박태임 [taeiim](https://github.com/taeiim)
+
+- 박지영 [d2fault](https://github.com/d2fault)
+
+- 연아림 [ArimYeon](https://github.com/ArimYeon)
+
+- 이두한 [koba1mobile](https://github.com/koba1mobile)
 
 ### 생성 방법
 - 각자의 아이디에 해당하는 폴더에 자신의 토이프로젝트를 작업
