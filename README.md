@@ -1,4 +1,4 @@
-﻿# study-android-architecture
+﻿# study-android-kotlin
 
 ## 9th
 - 이재우 [namget](https://github.com/namget)
