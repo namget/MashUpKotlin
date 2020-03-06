@@ -1,29 +1,32 @@
 # study-android-architecture
 
 ## 9th
+- ì´ì¬ìš° [namget](https://github.com/namget)
 
-- ÀÌÀç¿ì [namget](https://github.com/namget)
+- ë°•ì¬ë¯¼ [mkSpace](https://github.com/mkSpace)
 
-### »ı¼º ¹æ¹ı
-- °¢ÀÚÀÇ Æú´õ¸¦ »ı¼ºÇÑ µÚ ÇØ´ç Æú´õ¿¡ ÀÚ½ÅÀÇ ÅäÀÌÇÁ·ÎÁ§Æ®¸¦ ÀÛ¾÷
+- ìµœë¯¼ì • [miinjung](https://github.com/miinjung)
 
+### ìƒì„± ë°©ë²•
+- ê°ìì˜ ì•„ì´ë””ì— í•´ë‹¹í•˜ëŠ” í´ë”ì— ìì‹ ì˜ í† ì´í”„ë¡œì íŠ¸ë¥¼ ì‘ì—…
 
-### ½ºÅÍµğ
+### ìŠ¤í„°ë””
 
-- ÄÚÆ²¸° ÀÎ ¾×¼ÇÀ» 6Àå±îÁö ÀĞ°í ÅäÀÌÇÁ·ÎÁ§Æ®¸¦ ÁøÇàÇØº¸ÀÚ
+- ì½”í‹€ë¦° ì¸ ì•¡ì…˜ì„ 6ì¥ê¹Œì§€ ì½ê³  í† ì´í”„ë¡œì íŠ¸ë¥¼ ì§„í–‰í•´ë³´ì.
+- ì§ ì½”ë”©ì„ í†µí•´ ì„œë¡œì˜ ì½”ë“œë¥¼ ë¦¬ë·°í•œë‹¤.
 
-### ÇÁ·ÎÁ§Æ®
+### í”„ë¡œì íŠ¸
 
-- Ä¿´ÏÀÇ ÄÚÆ²¸° ¿¹Á¦ [kotlin-step2](https://github.com/kunny/kunny-kotlin-book/tree/kotlin-step-2)
+- ì»¤ë‹ˆì˜ ì½”í‹€ë¦° ì˜ˆì œ [kotlin-step2](https://github.com/kunny/kunny-kotlin-book/tree/kotlin-step-2)
 
 ### Github API
 
 - [Github API](https://developer.github.com/v3/)
 
-### ÄÁº¥¼Ç ÁöÅ°±â
+### ì»¨ë²¤ì…˜ ì§€í‚¤ê¸°
 
 - [kotlinlang coding convention](https://kotlinlang.org/docs/reference/coding-conventions.html)
 - [android developer coding convention](https://developer.android.com/kotlin/style-guide)
-- [ÃßÃµ - ¾Èµå·ÎÀÌµå ÇÁ·ÎÁ§Æ® ÄÁº¥¼Ç](https://github.com/PRNDcompany/android-style-guide/blob/master/Resource.md)
+- [ì¶”ì²œ - ì•ˆë“œë¡œì´ë“œ í”„ë¡œì íŠ¸ ì»¨ë²¤ì…˜](https://github.com/PRNDcompany/android-style-guide/blob/master/Resource.md)
 
 
