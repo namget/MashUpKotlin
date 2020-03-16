@@ -1,4 +1,4 @@
-﻿# study-android-architecture
+﻿# study-android-kotlin
 
 ## 9th
 - 이재우 [namget](https://github.com/namget)
@@ -14,6 +14,10 @@
 - 연아림 [ArimYeon](https://github.com/ArimYeon)
 
 - 이두한 [koba1mobile](https://github.com/koba1mobile)
+
+- 고승윤 [SeungYooon](https://github.com/SeungYooon)
+
+- 유현선 [sunny0529](https://github.com/sunny0529)
 
 ### 생성 방법
 - 각자의 아이디에 해당하는 폴더에 자신의 토이프로젝트를 작업
